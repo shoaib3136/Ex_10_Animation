@@ -28,14 +28,6 @@ Step 8: Save and run the application.
 
 
 ## Program:
- ```
-/*
-Program to create and design an android application for performing different animations
-Developed by: Shaik Shoaib Nawaz
-RegisterNumber: 212222240094  
-*/
-```
-
 ### MainActivity.java:
 ```
 package com.example.exp10;
